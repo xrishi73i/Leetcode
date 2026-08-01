@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/xrishi73i/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xrishi73i/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/xrishi73i/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xrishi73i/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/xrishi73i/Leetcode/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/xrishi73i/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -104,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/xrishi73i/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/xrishi73i/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
