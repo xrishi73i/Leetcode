@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/xrishi73i/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xrishi73i/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/xrishi73i/Leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/xrishi73i/Leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/xrishi73i/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xrishi73i/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/xrishi73i/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xrishi73i/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
