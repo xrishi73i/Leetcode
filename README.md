@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xrishi73i/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/xrishi73i/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/xrishi73i/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xrishi73i/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/xrishi73i/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/xrishi73i/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/xrishi73i/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xrishi73i/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/xrishi73i/Leetcode/tree/master/0206-reverse-linked-list) |
