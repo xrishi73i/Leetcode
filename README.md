@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xrishi73i/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/xrishi73i/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xrishi73i/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0031-next-permutation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/xrishi73i/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/xrishi73i/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xrishi73i/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xrishi73i/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xrishi73i/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/xrishi73i/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xrishi73i/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0031-next-permutation) |
