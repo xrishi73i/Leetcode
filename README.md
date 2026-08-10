@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/xrishi73i/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/xrishi73i/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/xrishi73i/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/xrishi73i/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
