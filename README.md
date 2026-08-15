@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/xrishi73i/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/xrishi73i/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/xrishi73i/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/xrishi73i/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/xrishi73i/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/xrishi73i/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
