@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/xrishi73i/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xrishi73i/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/xrishi73i/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/xrishi73i/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/xrishi73i/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/xrishi73i/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/xrishi73i/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/xrishi73i/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/xrishi73i/Leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/xrishi73i/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
