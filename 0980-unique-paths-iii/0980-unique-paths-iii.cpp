@@ -42,7 +42,7 @@ public:
         int paths = 0;
 
         // Right
-        paths += solve(grid, i, j + 1,
+        paths += solve(grid, i, j + 1,                //total cells, and counting the cells, in this
                        count + 1, total, visited);
 
         // Down
