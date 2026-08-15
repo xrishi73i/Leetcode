@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/xrishi73i/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xrishi73i/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/xrishi73i/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xrishi73i/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/xrishi73i/Leetcode/tree/master/0344-reverse-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/xrishi73i/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/xrishi73i/Leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/xrishi73i/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/xrishi73i/Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/xrishi73i/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/xrishi73i/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/xrishi73i/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/xrishi73i/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/xrishi73i/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/xrishi73i/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/xrishi73i/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
