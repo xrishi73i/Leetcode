@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/xrishi73i/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/xrishi73i/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Hamiltonian Path
 |  |
@@ -272,15 +273,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/xrishi73i/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/xrishi73i/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/xrishi73i/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/xrishi73i/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/xrishi73i/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/xrishi73i/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
