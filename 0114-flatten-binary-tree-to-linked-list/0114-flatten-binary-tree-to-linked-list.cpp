@@ -26,9 +26,9 @@ public:
             v[i]->right = v[i + 1];
         }
 
-        if (v.size() > 0) {
-            v[v.size() - 1]->left = NULL;
-            v[v.size() - 1]->right = NULL;
-        }
+        // if (v.size() > 0) {
+        //     v[v.size() - 1]->left = NULL;
+        //     v[v.size() - 1]->right = NULL;
+        // }
     }
 };
