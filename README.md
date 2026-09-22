@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/xrishi73i/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/xrishi73i/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/xrishi73i/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/xrishi73i/Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/xrishi73i/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/xrishi73i/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/xrishi73i/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/xrishi73i/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/xrishi73i/Leetcode/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/xrishi73i/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/xrishi73i/Leetcode/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/xrishi73i/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/xrishi73i/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xrishi73i/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/xrishi73i/Leetcode/tree/master/0143-reorder-list) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/xrishi73i/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/xrishi73i/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
