@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/xrishi73i/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/xrishi73i/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0784-letter-case-permutation) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/xrishi73i/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xrishi73i/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xrishi73i/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/xrishi73i/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xrishi73i/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/xrishi73i/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sweep Line
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/xrishi73i/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
