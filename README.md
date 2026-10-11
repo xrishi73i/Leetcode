@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/xrishi73i/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/xrishi73i/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/xrishi73i/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/xrishi73i/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/xrishi73i/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/xrishi73i/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -400,4 +401,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/xrishi73i/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/xrishi73i/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
