@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/xrishi73i/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/xrishi73i/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/xrishi73i/Leetcode/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/xrishi73i/Leetcode/tree/master/0437-path-sum-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/xrishi73i/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/xrishi73i/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/xrishi73i/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/xrishi73i/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/xrishi73i/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -413,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/xrishi73i/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xrishi73i/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
