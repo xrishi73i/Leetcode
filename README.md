@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xrishi73i/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/xrishi73i/Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/xrishi73i/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/xrishi73i/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/xrishi73i/Leetcode/tree/master/0046-permutations) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xrishi73i/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/xrishi73i/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/xrishi73i/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
