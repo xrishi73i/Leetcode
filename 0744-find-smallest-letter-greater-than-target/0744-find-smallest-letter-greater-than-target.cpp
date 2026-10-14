@@ -1,19 +1,16 @@
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
-        vector<int>diff(letters.size());
-        for(int i=0;i<letters.size();i++){
-            diff[i] = (int)letters[i];
-        }
-        int tar = (int)target;
-        for(int i=0;i<letters.size();i++){
-            if(diff[i] > tar){
-                return char(diff[i]);
+        int l =0;
+        int h = letters.size();
+        while(l<h){
+            int mid = l + ( h-l)/2;
+            if(letters[mid] <= target){
+                l = mid +1;
+            }else{
+                h = mid;
             }
         }
-        int p = *min_element(diff.begin(),diff.end());
-        return char(p);
-
-
+        return letters[l % letters.size()];
     }
 };
