@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/xrishi73i/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/xrishi73i/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/xrishi73i/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2187-minimum-time-to-complete-trips](https://github.com/xrishi73i/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/xrishi73i/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/xrishi73i/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/xrishi73i/Leetcode/tree/master/3731-find-missing-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xrishi73i/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/xrishi73i/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/xrishi73i/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2187-minimum-time-to-complete-trips](https://github.com/xrishi73i/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Prefix Sum
 |  |
 | ------- |
