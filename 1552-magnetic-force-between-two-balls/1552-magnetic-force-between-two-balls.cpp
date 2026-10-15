@@ -1,38 +1,29 @@
 class Solution {
 public:
-public:
-    int check(vector<int> &position,int k ,int dist){
-        int painter = 1;
-        int last = position[0];
-        for(int r=1;r<position.size();r++){
-            if(position[r]-last>=dist){
-                last = position[r];
-                painter++;
-            }
-            if(painter == k){
-                return true;
+    bool can(vector<int>& pos , long long m , long long mid){
+        long long count = 1;
+        long long  laspos = pos[0];
+        for(int i=1;i<pos.size();i++){
+            if((pos[i] - laspos)>=mid){
+                count++;
+                laspos = pos[i];
             }
         }
-        return false;
-            
-
+        return count >= m; /// if all placed return true ;
     }
-    int maxDistance(vector<int>& position, int m) {
+    int maxDistance(vector<int>& position, long long m) {
         sort(position.begin(),position.end());
-        int n = position.size();
-        int l =0;
-        int r = position[n-1]-position[0];
-        int ans =-1;
-
-        while(l<=r){
-            int mid = l+(r-l)/2;
-            if(check(position,m,mid)){
-                ans = mid;
-                l = mid+1;
+        long long l = 1;
+        long long h = position.back()- position.front();
+        while(l<h){
+            long long mid = l + (h-l+1)/2;  // for maximum we roundoff , h-l+1
+            if(can(position,m, mid)){
+                l = mid;
             }else{
-                r = mid-1;
+                h = mid -1;
             }
         }
-        return ans;
+        return l;
+
     }
 };
