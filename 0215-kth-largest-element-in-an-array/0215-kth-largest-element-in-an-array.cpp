@@ -13,4 +13,9 @@ public:
         return pq.top();
 
     }
+
+    //time complexity (n log k ) k because at most k elemetns 
+    //space (k);
+
+    //brute force sort and get the element space 1, complexity (nlogn);
 };
