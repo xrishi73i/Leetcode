@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/xrishi73i/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/xrishi73i/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xrishi73i/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/xrishi73i/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/xrishi73i/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xrishi73i/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/xrishi73i/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xrishi73i/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/xrishi73i/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/xrishi73i/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/xrishi73i/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/xrishi73i/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/xrishi73i/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/xrishi73i/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/xrishi73i/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/xrishi73i/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Tree
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/xrishi73i/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/xrishi73i/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/xrishi73i/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/xrishi73i/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/xrishi73i/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/xrishi73i/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
